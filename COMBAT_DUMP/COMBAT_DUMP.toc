@@ -1,0 +1,7 @@
+## Interface: 11302
+## Title: COMBAT DUMP
+## Author: Andreas Fransson aka Äppelknäck
+## Version: 0.1
+## SavedVariables: combatDB
+
+CombatDump.lua
